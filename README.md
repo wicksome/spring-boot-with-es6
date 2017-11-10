@@ -1,4 +1,4 @@
-# Spring project with ES6
+# Spring boot with ES6
 
 ## Structure
 
